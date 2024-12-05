@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mihail Alexandru Teodosiu</h1> <h3 align="center">Data Engineer currently based in Denmark 🇩🇰</h3>
 <img align="right" src="20945549.jpg" alt="Description" width="400">
 
-
-- 🔭 I’m a Data Engineer at MobilePay, a Scandinavian fintech.
-- 🌱 I’m immersed in Azure, DBT, Databricks, and Big Data, working on designing and optimizing ETL/ELT pipelines.
-- 👯 I’m looking to collaborate on Open Source Data Engineering Projects.
-- 🤝 I’m eager to learn more about data, cloud, and backend engineering.
+- 🔭 I’m a Data Engineer at MobilePay: Azure, DBT, Databricks, terraform...
+- 🌱 Check out my pinned projects below. Lots of blood, sweat and tears!
+- 🤝 I’m eager to learn more about data, cloud, and backend engineering by collaborating on projects.
 - 📫 How to reach me: <a href="https://linkedin.com/in/mihail-alexandru-teodosiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin-mihail-teodosiu" height="30" width="40" /></a>
 - 📖 Read my articles: <a href="https://medium.com/@alexandru.mihail.teo" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="medium-alexandru-mihail-teo" height="30" width="40" /> </a>
 
