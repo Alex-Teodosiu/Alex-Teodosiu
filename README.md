@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mihail Alexandru Teodosiu</h1> <h3 align="center">Data Engineer currently based in Denmark 🇩🇰</h3>
+<h1 align="center">👋 I'm Alex, a Data Engineer currently based in Denmark 🇩🇰</h1> 
 <img align="right" src="20945549.jpg" alt="Description" width="400">
 
 - 🔭 I’m a Data Engineer at MobilePay: Azure, DBT, Databricks, terraform...
