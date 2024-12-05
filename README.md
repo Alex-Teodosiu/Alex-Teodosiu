@@ -10,25 +10,33 @@
 - 📫 How to reach me: <a href="https://linkedin.com/in/mihail-alexandru-teodosiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin-mihail-teodosiu" height="30" width="40" /></a>
 - 📖 Read my articles: <a href="https://medium.com/@alexandru.mihail.teo" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="medium-alexandru-mihail-teo" height="30" width="40" /> </a>
 
-<h3 align="left">Projects:</h3>
-
-- MobilePay work projects
-  - terraform
-  - dbt
-  - databricks
-  - Azure/ADF/ADLS
-- Cloud-based automated trading bot
-  - Python/Flask
-  - Hosted on Azure Web Apps
-  - Database on Azure SQL Server
-  - Javascript/HTML/CSS/Bootstrap
-- Stock market paper trading platform
-  - Frontend: c# blazor
-  - Backend: java/spring boot/ORM
-  - Database: PostgreSQL
-- Single Page weather web application
-- AdventureWorks ETL Data Warehousing
-
+<details>
+  <summary>My projects</summary>
+  <ul>
+    <li>MobilePay work projects</li>
+      <ul>
+        <li>terraform</li>
+        <li>dbt</li>
+        <li>databricks</li>
+        <li>Azure/ADF/ADLS</li>
+      </ul>
+    <li>Cloud-based automated trading bot</li>
+      <ul>
+        <li>Python/Flask</li>
+        <li>Hosted on Azure Web Apps</li>
+        <li>Database on Azure SQL Server</li>
+        <li>Javascript/HTML/CSS/Bootstrap</li>
+      </ul>    
+    <li>Stock market paper trading platform</li>
+      <ul>
+        <li>Frontend: c# blazor</li>
+        <li>Backend: java/spring boot/ORM</li>
+        <li>Database: PostgreSQL</li>
+      </ul>
+    <li>Single Page weather web application</li>
+    <li>AdventureWorks ETL Data Warehousing</li>
+  </ul>
+</details>
 
 <h3 align="left">Languages and Tools:</h3> 
 <p align="left"> 
