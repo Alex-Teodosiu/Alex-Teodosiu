@@ -5,7 +5,6 @@
 - 🌱 Check out my pinned projects below. Lots of blood, sweat and tears went into them!
 - 🤝 I’m eager to learn more about data, cloud, and backend engineering by collaborating on projects.
 - 📫 How to reach me: <a href="https://linkedin.com/in/mihail-alexandru-teodosiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin-mihail-teodosiu" height="30" width="40" /></a>
-- 📖 Read my articles: <a href="https://medium.com/@alexandru.mihail.teo" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="medium-alexandru-mihail-teo" height="30" width="40" /> </a>
 
 <details>
   <summary>My projects</summary>
